@@ -15,3 +15,10 @@ Suivez ces 5 étapes du cul :
 3. Créez une application Twitter avec le compte du bot et remplissez les variables d'API dans le fichier twitterCredentials.php (`$oauthToken`, `$oauthTokenSecret`, `$consumerKey`, `$consumerSecret`)
 4. Récupérez les librairies [TwitterAPIExchange.php](https://github.com/J7mbo/twitter-api-php) et [SafeTweet.php](https://github.com/WhiteFangs/SafeTweet) et mettez les dans le dossier parent du fichier BotDuCul.php
 5. Lancez le fichier BotDuCul.php depuis votre serveur PHP et appréciez votre BotDuCul !
+
+## Licence
+
+Le code source de @BotDuCul est publié sous licence MIT.
+La base de données [Lexique](http://lexique.org) est sous [licence publique générale](http://lexique.org/public/license_lexique.htm) (inspirée de GNUv2).
+
+© Bilgé Kimyonok - 2018
