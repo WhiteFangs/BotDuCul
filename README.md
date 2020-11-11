@@ -16,6 +16,10 @@ Suivez ces 5 étapes du cul :
 4. Récupérez les librairies [TwitterAPIExchange.php](https://github.com/J7mbo/twitter-api-php) et [SafeTweet.php](https://github.com/WhiteFangs/SafeTweet) et mettez les dans le dossier parent du fichier BotDuCul.php
 5. Lancez le fichier BotDuCul.php depuis votre serveur PHP et appréciez votre BotDuCul !
 
+## Données
+
+Les données Twitter des tweets du @BotDuCul sont disponibles dans leur repository dédié: [BotDuCul_tweets_data](https://github.com/WhiteFangs/BotDuCul_tweets_data)
+
 ## F.A.Q. du cul
 
 ### Qu'est ce que c'est ?
